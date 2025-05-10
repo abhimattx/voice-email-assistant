@@ -10,7 +10,7 @@ A seamless desktop application that understands your spoken commands to compose 
 
 ## 📱 Demo Screenshot
 
-![Voice Email Assistant Interface](./assets/interface_screenshot.png)
+![Voice Email Assistant Interface](./assets/image.png)
 
 *The Voice Email Assistant provides an intuitive interface for hands-free email composition*
 
